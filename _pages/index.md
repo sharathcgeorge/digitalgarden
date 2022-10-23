@@ -5,15 +5,27 @@ id: home
 permalink: /
 ---
 
-# Welcome! 🌱
+# Hi, I'm Sharath C George, and this is my digital garden! 🌱
+
+This is not a blog. This is a place where I share my notes and ideas about various topics, and they will remain works in progress by design. These notes are written primarily for myself and not you, but if you see value in them, hop on for the ride and shoot me an email or Tweet.  
+
+<p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
+  I'm 36, live in Bangalore, India by choice, work in market research and consulting and have a wife and daughter. I have ADHD and have a wide variety of hobbies from writing, photography to HAM radio.
+</p>
 
 <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
   Take a look at <span style="font-weight: bold">[[Your first note]]</span> to get started on your exploration.
 </p>
 
-This digital garden template is free, open-source, and [available on GitHub here](https://github.com/maximevaillancourt/digital-garden-jekyll-template).
+Some of the topics I'm covering here:
 
-The easiest way to get started is to read this [step-by-step guide explaining how to set this up from scratch](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll).
+- Hobbies - Writing, Photography, Amateur Radio, Podcasting
+- Activism - Hunger relief, waste management, mental health
+- [[ADHD]] - Personal journey, management techniques, resources
+- Productivity - To-do lists, journaling, routines
+- Entrepreneurship
+- Parenting
+- Life skills
 
 <style>
   .wrapper {
