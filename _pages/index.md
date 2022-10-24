@@ -5,22 +5,27 @@ id: home
 permalink: /
 ---
 
-# Hi, I'm Sharath C George, and this is my digital garden! 🌱
+# Hi, I'm Sharath C George 🥬 🌱
+
+## Welcome to my digital garden 🌱 or my second brain 🧠
+
+This is not a blog. It is a place for me to write notes about what I learn about the world, myself and the art of creation. A lot of my interests are powered by my ADHD, which is in itself an object of study.
+
+These notes are written for me and not you, but I would be happy if you find value in it. Shoot me an email or tweet if you do. These notes are also imperfect and in a permanent work in progress state by design. If you want to find out more about who I am and finished work, click on this [[about me]] page.
+
+If you want to understand what exactly a digital garden is, read [[Why I became a digital gardener]]
 
 <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
-  I'm 36, live in Bangalore, India by choice, work in market research and consulting and have a wife and daughter. I have ADHD and have a wide variety of hobbies from writing, photography to HAM radio.
+### How to navigate my digital gardener
+
+* There is no traditional navigation system. You click on one note and click on linked notes as you see them
+* On every page except this homepage, you will see a graph view at the bottom that shows interconnected notes. Click on any node to jump there
 </p>
 
-This is not a blog. This is a place where I share my notes and ideas about various topics, and they will remain works in progress by design. These notes are written primarily for myself and not you, but if you see value in them, hop on for the ride and shoot me an email or Tweet.  
-
-<p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
-  Take a look at <span style="font-weight: bold">[[Your first note]]</span> to get started on your exploration.
-</p>
-
-Some of the topics I'm covering here:
+#### Here are some good starting points:
 
 - Hobbies - Writing, Photography, Amateur Radio, Podcasting
-- Activism - Hunger relief, waste management, mental health
+- Activism - Hunger relief, waste management, freedom of expression
 - [[ADHD]] - Personal journey, management techniques, resources
 - Productivity - To-do lists, journaling, routines
 - Entrepreneurship
