@@ -1,1 +1,0 @@
-Different people describe it in different ways. I don't really think of it as fog. I think of it more like running on the beach in the surf. You're trying to run at normal speed but there is a drag on your legs.

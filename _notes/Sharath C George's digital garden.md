@@ -1,21 +1,26 @@
-Hello there,
+# Hi, I'm Sharath C George 🥬
 
-My name is Sharath C George and welcome to my digital garden.
+## Welcome to my digital garden 🌱 or my second brain 🧠
 
-I have always hated writing an 'about me' section and in a way this digital garden is my answer to 'who are you?'. But here are a few facts about myself so you know what you're getting into.
+This is not a blog. It is a place for me to write notes about what I learn about the world, myself and the art of creation. A lot of my interests are powered by my ADHD, which is in itself an object of study.
 
-I'm 35, live in Bangalore, India, work in digital market research for healthcare companies and have [[ADHD]]. I am also an amateur writer, podcaster, photographer and many other things. I switch hobbies like some people change clothes, which made a lot of sense after my [[ADHD]] diagnosis around 7 months ago.
+These notes are written for me and not you, but I would be happy if you find value in it. Shoot me an email or tweet if you do. These notes are also imperfect and in a permanent work in progress state by design. If you want to find out more about who I am and finished work, click on this [[about me]] page.
 
-If you're new to the concept of digital gardens, the idea is to make a corner of the internet that's yours, a second brain with notes that are connected to each other and grows over time into whatever you want it to be. Digital gardens are a counter weight to the current paradigm of blink and you miss it content that keeps getting pushed out on blogs, newsletters and social media.
+### How to navigate my digital garden
 
-My digital garden will have everything I curate over time. None of the posts are 'finished' like in a blog. They might be imperfect or tentative, because they are primarily written for me and not for you. But if you find value in it, would love to have you on for the ride.
+* There is no traditional navigation system. You click on one note and click on linked notes as you see them
+* On every page except this homepage, you will see a graph view at the bottom that shows interconnected notes. Click on any node to jump there
 
-Some of the topics I'm covering here:
+#### Here are some good starting points:
 
 - Hobbies - Writing, Photography, Amateur Radio, Podcasting
-- Activism - Hunger relief, waste management, mental health
+- Activism - Hunger relief, waste management, freedom of expression
 - [[ADHD]] - Personal journey, management techniques, resources
 - Productivity - To-do lists, journaling, routines
 - Entrepreneurship
 - Parenting
 - Life skills
+
+<p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
+The digital gardening movement aims to be a counter-weight to the culture of constantly pushing out content on blogs and social media channels. It does not aim to replace the content 'stream' but to provide a safe sanctuary for ideas that are calmly developed. If you want to know more, read [[ Why I became a digital gardener]]
+</p>
