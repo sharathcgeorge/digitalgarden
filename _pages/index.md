@@ -29,7 +29,7 @@ These notes are written for me and not you, but I would be happy if you find val
 - Life skills
 
 <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
-The digital gardening movement aims to be a counter-weight to the culture of constantly pushing out content on blogs and social media channels. It does not aim to replace the content 'stream' but to provide a safe sanctuary for ideas that are calmly developed. If you want to know more, read [[ Why I became a digital gardener]]
+The digital gardening movement aims to be a counter-weight to the culture of constantly pushing out content on blogs and social media channels. It does not aim to replace the content 'stream' but to provide a safe sanctuary for ideas that are calmly developed. If you want to know more, read <span style="font-weight: bold"><a class="internal-link" href="/Why-I-became-a-digital-gardener">Why I became a digital gardener</a></span>
 </p>
 
 <style>
