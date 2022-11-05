@@ -24,8 +24,8 @@ These notes are written for me and not you, but I would be happy if you find val
 - Activism - Hunger relief, waste management, freedom of expression
 - [[ADHD]] - Personal journey, management techniques, resources
 - Productivity - To-do lists, journaling, routines
-- Entrepreneurship
-- Parenting
+- [[Entrepreneurship]]
+- [[Parenting]]
 - Life skills
 
 <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
