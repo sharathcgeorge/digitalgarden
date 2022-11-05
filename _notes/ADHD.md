@@ -30,3 +30,11 @@ Lights out or flickering
 - Being part of a boring conversation
 - Waiting in line, without looking at your phone
 
+A few common symptoms:
+
+- Poorly regulated focus
+- Hyperactivity
+- [[Brain fog]]
+- Time blindness
+- Emotional dysregulation
+- Impulsivity

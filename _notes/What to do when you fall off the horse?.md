@@ -1,0 +1,17 @@
+- Open up your journal
+	- Don't stress out on which format - use laptop, phone, a piece of paper or any note taking app
+	- If nothing is available, do it in your head
+- Check what all you didn't do
+- Think of why you deviated from it
+	- Was it because of unexpected events?
+	- Did you get bored?
+	- Were you too preoccupied or stressed about something else? If so:
+		- What do you feel right now?
+		- What is triggering those feelings?
+		- What will you do about it, or not do?
+- Are there any good habits or routines you want to salvage for today?
+	- Pick something tiny which you can achieve. A quick walk, exercise bike ride, etc.
+	- Use the grounding technique
+- Review:
+	- Can the trigger be avoided in future?
+	- Does the template need to change in some way? Which part is hard or unrealistic?
